@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: jana-tools
+Version: 1.0.0
+Summary: A suite of tools for assisting in the analysis of data from JANA.
+Home-page: https://github.com/DarioLewczyk/jana_tools.git
+Author: Dario C. Lewczyk
+Author-email: darlewczyk@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+
+# Jana Tools
+
+Written by: Dario C. Lewczyk
+Purpose: Make analysis of JANA's output files like .prf easier to understand and take action on by providing the user with the tools necessary to automatically parse these files and take action with the data provided. 
+
+
+

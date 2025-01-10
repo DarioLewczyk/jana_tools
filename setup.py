@@ -15,7 +15,7 @@ setup(
         'texttable',
         'numpy',
         'scipy',
-
+        'topas_tools',
     ],
     entry_points = {
         'console_scripts': [

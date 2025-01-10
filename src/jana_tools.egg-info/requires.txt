@@ -1,0 +1,7 @@
+pymatgen
+tqdm
+plotly
+texttable
+numpy
+scipy
+topas_tools
